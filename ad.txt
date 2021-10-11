@@ -1,0 +1,5 @@
+www.baidu.com##UL[id="hotsearch-content-wrapper"][class="s-hotsearch-content"]
+www.baidu.com##DIV[class="s-hotsearch-title"]
+www.bilibili.com##DIV[id="reportFirst2"][class="space-between report-wrap-module report-scroll-module"]
+www.bilibili.com##DIV[class="space-between"]
+www.bilibili.com##DIV[id="bili_report_spe_rec"][class="space-between s-rec b-wrap report-wrap-module report-scroll-module"]
